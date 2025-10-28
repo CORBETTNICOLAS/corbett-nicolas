@@ -12,7 +12,7 @@ interface Work {
     description: string;
     image: string;
     hoverimage: string;
-    types: srting[];
+    types: string[];
 }
 
 const works: Work[] = [
