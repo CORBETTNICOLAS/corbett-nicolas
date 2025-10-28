@@ -251,7 +251,7 @@ export default function Home() {
               </Link>
             </div>
             <div className="workrow">
-              <p>Prince Kropotkin's Cow - De Koe van Kropotkin.</p><p>2025</p>
+              <p>Prince Kropotkin&apos;s Cow - De Koe van Kropotkin.</p><p>2025</p>
             </div>
             <hr></hr>
             <div className="workrow">
